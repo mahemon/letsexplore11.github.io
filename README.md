@@ -1,5 +1,5 @@
 ## Template Development Role
-* [Md Anwar Hossen](https://www.facebook.com/letsexplore11)          : Client
+* [Md Anwar Hossen](https://www.facebook.com/letsexplore11)          : Mentor
 * [Shunjid Rahman Showrov](https://www.facebook.com/showrov.diu.swe) : Template architect, Designer & Developer
 * [Zubayer Alam Himel](https://www.facebook.com/zubayer.himel.5)     : Reviewer
 * [Shah Fahad Hossain](https://www.facebook.com/shahfahad.hossain)   : Reviewer
